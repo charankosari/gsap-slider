@@ -10,3 +10,6 @@ Responsive Image Slider is an easy-to-use image slider that dynamically adjusts 
 - Infinite looping: seamlessly loops images.
 - Smooth animations: uses GSAP for transitions.
 - Easy to integrate: simple HTML, CSS, and JavaScript structure.
+
+##Demo live link
+-https://charankosari.github.io/gsap-slider/

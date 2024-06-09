@@ -13,7 +13,7 @@ Responsive Image Slider is an easy-to-use image slider that dynamically adjusts 
 
 ## **Clone the repository:**
 
-    git clone https://github.com/yourusername/responsive-image-slider.git
+    git clone https://github.com/charankosari/gsap-slider.git
     
   - Run the index file
 
